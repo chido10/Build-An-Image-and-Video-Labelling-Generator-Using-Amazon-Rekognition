@@ -135,7 +135,7 @@ Zebra (90.29%)
 Rainforest (80.98%)
  ![image](https://github.com/user-attachments/assets/06cbb706-ea5d-467e-ad2f-33e8839f7fd5)
 
-The visualization shows wildlife images with bounding boxes identifying an elephant, a zebra, and what appears to be a bear, along with their confidence scores.
+The visualization shows wildlife images with bounding boxes identifying an elephant, a zebra, and what appears to be a bear, along with their confidence scores. The Elephant is perfectly recognized but others were slightly recognized due to the resemblaces.
 
 ### Video Analysis with AWS Rekognition
 Store Video in Amazon S3
