@@ -1,4 +1,6 @@
 # Build-An-Image-and-Video-Labelling-Generator-Using-Amazon-Rekognition
+
+#### Architectural Diagram
 ![image](https://github.com/user-attachments/assets/66e07768-1c5d-49ee-a0be-396443d2fc30)
 
 ### Introduction to AWS Rekognition
